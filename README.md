@@ -21,7 +21,7 @@ The CMake configure step should download all dependencies either as binary or as
 You can try to run the example by running  `vsg_conan_example` from the output directory 
 
 ## Caveats
-* currently only vsg 1.0.5 is supported (due to pending PRs in the conan-center)
+Currently only vsg 1.0.5 is supported (due to pending PRs in the conan-center)
 
 ## Troubleshooting
 If conan is not found after install you might want to consider to install it for all users
