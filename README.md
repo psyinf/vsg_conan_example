@@ -5,7 +5,7 @@ This is a minimal example for creating a simple [VulkanSceneGraph](https://Vulka
 ## Requirements
 * [Python 3.x](https://python.org)
 * [Conan](https://conan.io) can be installed via: `pip3 install --user conan==1.60.0`
-**  conan 2.x.x is currently not in the scope`
+  (conan 2.x.x is currently not in the scope)
 
 ## Build
 ```
