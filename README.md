@@ -3,7 +3,7 @@
 This is a minimal example for creating a simple [VulkanSceneGraph](https://VulkanSceneGraph.org) project using [Conan](https://conan.io).
 
 ## Requirements
-* [Python 3.x](https://python.org)
+* Python 3.x (can be obtained [here](https://python.org))
 * [Conan](https://conan.io) can be installed via: `pip3 install --user conan==1.60.0`
   (conan 2.x.x is currently not in the scope)
 
