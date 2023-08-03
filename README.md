@@ -1,4 +1,4 @@
-# vsg_conan_example
+# VulkanSceneGraph Conan Example
 
 This is a minimal example for creating a simple [VulkanSceneGraph](https://VulkanSceneGraph.org) project using [Conan](https://conan.io).
 
@@ -17,6 +17,8 @@ cmake .. --DCMAKE_BUILD_TYPE=Release
 cmake --build .
 ```
 The CMake configure step should download all dependencies either as binary or as source code and start to build them. 
+## Running
+You can try to run the example by running  `vsg_conan_example` from the output directory 
 
 ## Caveats
 * currently only vsg 1.0.5 is supported (due to pending PRs in the conan-center)
